@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-my name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/)
+My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/).
+I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)
 
