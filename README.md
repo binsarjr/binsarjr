@@ -8,7 +8,6 @@ I am also a member and admin in the Indonesian IT community forum at [IndoSec](h
 ## My Skills
 ### Programming Language
 * PHP
-* JavaScript
 * NodeJS
 * TypeScript
 * Python
