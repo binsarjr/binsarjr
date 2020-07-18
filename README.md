@@ -13,6 +13,11 @@ I am also a member and admin in the Indonesian IT community forum at [IndoSec](h
 * TypeScript
 * Python
 
+### Database
+* MySQL
+* PostgreSQL
+* Firestore/Firebase
+
 ### Framework
 * Laravel
 * Bootstrap
