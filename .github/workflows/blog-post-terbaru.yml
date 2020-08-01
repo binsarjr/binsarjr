@@ -1,9 +1,17 @@
 name: Blog terbaru
 on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'  
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-
+        
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
