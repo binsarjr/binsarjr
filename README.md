@@ -4,7 +4,7 @@ My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student 
 I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/).
 
 
-# Blog Terbaru
+# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Belajar Turbolinks - Bagaimana cara menggunakannya](https://binsarjr.github.io/turbolinks/belajar-turbolinks-bagaimana-cara-menggunakannya/)
 - [Percepat navigasi aplikasi kamu dengan Turbolinks](https://binsarjr.github.io/turbolinks/percepat-navigasi-aplikasi-kamu-dengan-turbolinks/)
