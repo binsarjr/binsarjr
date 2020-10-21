@@ -3,6 +3,9 @@
 My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/).
 I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/).
 
+[![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
+[![](https://img.shields.io/badge/Age-16-green)](mailto:binsarjr121@gmail.com)
+
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,21 +16,27 @@ I am also a member and admin in the Indonesian IT community forum at [IndoSec](h
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)
 
-## My Skills
-### Programming Language
-* PHP
-* NodeJS
-* TypeScript
-* Python
+## About me
+```ts
+const binsardj = () => {
+  return {
+    pronouns: "He" | "Him",
+    askMeAbout: ["backend dev", "artificial intelligence"],
+    technologies:{
+        backEnd: ["Nodejs", "Typescript", "Laravel", "PHP","Python"],
+        fronEnd: ["Bootstrap", "Tailwind"],
+        database: ["MySQL","PostgreSQL"],
+    },
+    Social:{
+        Facebook : "facebook.com/binsar05/",
+        Whatsapp : "https://api.whatsapp.com/send?phone=6281229904389&text=Halo+Binsar",
+        Instagram : "https://www.instagram.com/binsar_dj/",
+        Website : "binsarjr.github.io"
+    }
+  }
+}
+```
 
-### Database
-* MySQL
-* PostgreSQL
-* Firestore/Firebase
-
-### Framework
-* Laravel
-* Bootstrap
 
 ## My contribution
 * [search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs)
