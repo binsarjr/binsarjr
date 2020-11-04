@@ -1,3 +1,10 @@
+<!--
+  Title: Binsar Dwi Jasuma
+  Description: I'm not a programmer. I'm just a problem solver.
+  Author: binsarjr
+  -->
+
+
 ### Hi there 👋
 
 My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/).
@@ -20,7 +27,7 @@ I am also a member and admin in the Indonesian IT community forum at [IndoSec](h
 
 ## About me
 ```ts
-const binsardj = () => {
+const binsarjr = () => {
   return {
     pronouns: "He" | "Him",
     askMeAbout: ["backend dev", "artificial intelligence"],
@@ -34,16 +41,13 @@ const binsardj = () => {
         Whatsapp : "https://api.whatsapp.com/send?phone=6281229904389&text=Halo+Binsar",
         Instagram : "https://www.instagram.com/binsar_dj/",
         Website : "binsarjr.github.io"
-    }
+    },
+    funFact: "I'm not a programmer. I'm just a problem solver."
   }
 }
 ```
 
 
-## Open Source project
-* [search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs)
-* [alexa-rank-nodejs](https://github.com/binsarjr/alexa-rank-nodejs)
-* [node-email-extractor](https://github.com/binsarjr/node-email-extractor)
 
 
 ## Pinned
