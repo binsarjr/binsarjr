@@ -46,15 +46,15 @@ const binsardj = () => {
 
 ## Pinned
 <a href="https://github.com/binsarjr/chatbot-indonesia">
-  <img style="margin-top:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
 </a>
 <a href="https://github.com/binsarjr/search-engine-nodejs">
-  <img style="margin-top:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
 </a>
 <a href="https://github.com/binsarjr/node-email-extractor">
-  <img style="margin-top:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
 </a>
 
 <a href="https://github.com/binsarjr/alexa-rank-nodejs">
-  <img style="margin-top:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
 </a>  
