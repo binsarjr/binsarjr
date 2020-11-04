@@ -42,3 +42,19 @@ const binsardj = () => {
 * [search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs)
 * [alexa-rank-nodejs](https://github.com/binsarjr/alexa-rank-nodejs)
 * [node-email-extractor](https://github.com/binsarjr/node-email-extractor)
+
+
+## Pinned
+<a href="https://github.com/binsarjr/chatbot-indonesia">
+  <img style="margin-bottom:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
+</a>
+<a href="https://github.com/binsarjr/search-engine-nodejs">
+  <img style="margin-bottom:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
+</a>
+<a href="https://github.com/binsarjr/node-email-extractor">
+  <img style="margin-bottom:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
+</a>
+
+<a href="https://github.com/binsarjr/alexa-rank-nodejs">
+  <img style="margin-bottom:3px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
+</a>  
