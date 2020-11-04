@@ -7,14 +7,16 @@ I am also a member and admin in the Indonesian IT community forum at [IndoSec](h
 [![](https://img.shields.io/badge/Age-16-green)](mailto:binsarjr121@gmail.com)
 
 
-# Blog Posts
+[![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)](https://github.com/binsarjr)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binsarjr&layout=compact)](https://github.com/binsarjr)
+[![Binsarjr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binsarjr)](https://github.com/binsarjr)
+
+
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Belajar Turbolinks - Bagaimana cara menggunakannya](https://binsarjr.github.io/turbolinks/belajar-turbolinks-bagaimana-cara-menggunakannya/)
 - [Percepat navigasi aplikasi kamu dengan Turbolinks](https://binsarjr.github.io/turbolinks/percepat-navigasi-aplikasi-kamu-dengan-turbolinks/)
 <!-- BLOG-POST-LIST:END -->
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)
 
 ## About me
 ```ts
@@ -38,7 +40,7 @@ const binsardj = () => {
 ```
 
 
-## My contribution
+## Open Source project
 * [search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs)
 * [alexa-rank-nodejs](https://github.com/binsarjr/alexa-rank-nodejs)
 * [node-email-extractor](https://github.com/binsarjr/node-email-extractor)
