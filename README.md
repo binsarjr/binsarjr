@@ -47,7 +47,7 @@ const binsarjr = () => {
 }
 ```
 
-
+[!trophy](https://github-profile-trophy.vercel.app/?username=binsarjr)
 
 
 ## Pinned
