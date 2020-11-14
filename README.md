@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/).
-I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/).
+I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/). Free ebook for you [here](https://drive.google.com/drive/folders/1BvIpswC5IDlBsnQySxBzAanXdfePF1v4?usp=sharing).
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
 [![](https://img.shields.io/badge/Age-16-green)](mailto:binsarjr121@gmail.com)
