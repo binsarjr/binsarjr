@@ -52,18 +52,23 @@ const binsarjr = () => {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=binsarjr)](https://github.com/binsarjr)
 
+## Another Pin Project
+<details>
+  <summary>My library project</summary>
+  <a href="https://github.com/binsarjr/search-engine-nodejs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
+  </a>
+  <a href="https://github.com/binsarjr/node-email-extractor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
+  </a>
 
-## Pinned
-<a href="https://github.com/binsarjr/chatbot-indonesia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
-</a>
-<a href="https://github.com/binsarjr/search-engine-nodejs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
-</a>
-<a href="https://github.com/binsarjr/node-email-extractor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
-</a>
-
-<a href="https://github.com/binsarjr/alexa-rank-nodejs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
-</a>  
+  <a href="https://github.com/binsarjr/alexa-rank-nodejs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
+  </a>  
+</details>
+<details>
+  <summary>My free time project</summary>
+  <a href="https://github.com/binsarjr/chatbot-indonesia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
+  </a>
+</details>
