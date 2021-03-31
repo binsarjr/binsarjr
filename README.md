@@ -5,10 +5,7 @@
   -->
 
 
-### Hi there 👋
-
-My name is [Binsar Dwi Jasuma](https://github.com/binsarjr), and I am a student at [SMK Muhammadiyah 1 Bantul](http://smkmuh1bantul.sch.id/).
-I am also a member and admin in the Indonesian IT community forum at [IndoSec](https://indosec.id/). Free ebook for you [here](https://drive.google.com/drive/folders/1BvIpswC5IDlBsnQySxBzAanXdfePF1v4?usp=sharing).
+![](https://cardivo.vercel.app/api?name=Binsar%20Dwi%20Jasuma&description=I%20am%20a%20student%20at%20SMK%20Muhammadiyah%201%20Bantul.%20I%20am%20also%20a%20member%20and%20admin%20in%20the%20Indonesian%20IT%20community%20forum%20at%20IndoSec.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33781288?v=4&backgroundColor=%23ecf0f1&instagram=binsar_dj&github=binsarjr&pattern=leaf&colorPattern=%23eaeaea)
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
 [![](https://img.shields.io/badge/Age-16-green)](mailto:binsarjr121@gmail.com)
