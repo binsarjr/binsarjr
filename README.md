@@ -45,7 +45,6 @@ const binsarjr = () => {
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/binsar_dj/)
 [![Website](https://img.icons8.com/fluent/40/000000/domain.png)](https://binsarjr.github.io/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/binsarjr)
 
 ## Achievement
 
