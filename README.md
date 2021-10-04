@@ -8,11 +8,8 @@
 ![](https://cardivo.vercel.app/api?name=Binsar%20Dwi%20Jasuma&description=Hi,%20I%20am%20a%20student%20at%20SMK%20Muhammadiyah%201%20Bantul.%20I%20am%20also%20a%20member%20and%20admin%20of%20the%20Indonesian%20IT%20community%20forum%20at%20IndoSec.%20Now%20I%20work%20at%20gi.co.id%20a%20company%20to%20design%20websites.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33781288?v=4&backgroundColor=%23ecf0f1&instagram=binsar_dj&github=binsarjr&pattern=leaf&colorPattern=%23eaeaea)
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
-[![](https://img.shields.io/badge/Age-17-green)](mailto:binsarjr121@gmail.com)
+[![](https://img.shields.io/badge/Age-18-green)](mailto:binsarjr121@gmail.com)
 
-### My free time project
-[With Redoc](http://147.139.195.7/tools/redoc) OR
-[With Swagger](http://147.139.195.7/tools/docs)
 
 #### Support me
 ```
@@ -25,7 +22,7 @@ support me to develop open source project
 const binsarjr = () => {
   return {
     pronouns: "He" | "Him",
-    askMeAbout: ["backend dev", "artificial intelligence"],
+    askMeAbout: ["backend dev"],
     technologies:{
         backEnd: ["Nodejs", "Typescript", "Laravel", "PHP","Python"],
         fronEnd: ["Bootstrap", "Tailwind"],
@@ -48,9 +45,13 @@ const binsarjr = () => {
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/binsar_dj/)
 [![Website](https://img.icons8.com/fluent/40/000000/domain.png)](https://binsarjr.github.io/)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/binsarjr)
+
 ## Achievement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=binsarjr)](https://github.com/binsarjr)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&)
 
 ## Another Pin Project
 <details>
