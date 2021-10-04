@@ -53,6 +53,9 @@ const binsarjr = () => {
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Another Pin Project
