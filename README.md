@@ -52,6 +52,9 @@ const binsarjr = () => {
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Another Pin Project
 <details>
   <summary>My library project</summary>
