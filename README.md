@@ -54,7 +54,12 @@ const binsarjr = () => {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 September, 2021 - 04 October, 2021
+
+Markdown     36 mins         ██████████████▒░░░░░░░░░░   56.95 % 
+Go           22 mins         █████████░░░░░░░░░░░░░░░░   35.97 % 
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
 
