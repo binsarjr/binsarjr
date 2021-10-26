@@ -54,13 +54,13 @@ const binsarjr = () => {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
-TypeScript       7 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Blade Template   5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Text             4 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Java             4 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-PHP              4 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Blade Template   5 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Kotlin           5 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+TypeScript       4 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Text             4 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+PHP              4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 <!--END_SECTION:waka-->
 
