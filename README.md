@@ -52,11 +52,8 @@ const binsarjr = () => {
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+[![Binsar Dwi Jasuma's github activity graph](https://activity-graph.herokuapp.com/graph?username=binsarjr&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/binsarjr/)
+
 
 ## Another Pin Project
 <details>
