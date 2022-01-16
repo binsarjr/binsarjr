@@ -5,7 +5,7 @@
   -->
 
 
-![](https://cardivo.vercel.app/api?name=Binsar%20Dwi%20Jasuma&description=Hi,%20I%20am%20a%20student%20at%20SMK%20Muhammadiyah%201%20Bantul.%20I%20am%20also%20a%20member%20and%20admin%20of%20the%20Indonesian%20IT%20community%20forum%20at%20IndoSec.%20Now%20I%20work%20at%20gi.co.id%20a%20company%20to%20design%20websites.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33781288?v=4&backgroundColor=%23ecf0f1&instagram=binsar_dj&github=binsarjr&pattern=leaf&colorPattern=%23eaeaea)
+![](https://cardivo.vercel.app/api?name=Binsar%20Dwi%20Jasuma&description=Hi,%20I%20am%20a%20informatic%20student%20at%20Universitas%20Amikom%20Yogyakarta.%20I%20am%20also%20a%20member%20and%20admin%20of%20the%20Indonesian%20IT%20community%20forum%20at%20IndoSec.%20Now%20I%20work%20at%20gi.co.id%20a%20company%20to%20design%20websites.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33781288?v=4&backgroundColor=%23ecf0f1&instagram=binsar_dj&github=binsarjr&pattern=leaf&colorPattern=%23eaeaea)
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
 [![](https://img.shields.io/badge/Age-18-green)](mailto:binsarjr121@gmail.com)
