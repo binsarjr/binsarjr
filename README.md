@@ -4,8 +4,7 @@
   Author: binsarjr
   -->
 
-
-![](https://cardivo.vercel.app/api?name=Binsar%20Dwi%20Jasuma&description=Hi,%20I%20am%20a%20informatic%20student%20at%20Universitas%20Amikom%20Yogyakarta.%20I%20am%20also%20a%20member%20and%20admin%20of%20the%20Indonesian%20IT%20community%20forum%20at%20IndoSec.%20Now%20I%20work%20at%20gi.co.id%20a%20company%20to%20design%20websites.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33781288?v=4&backgroundColor=%23ecf0f1&instagram=binsar_dj&github=binsarjr&pattern=leaf&colorPattern=%23eaeaea)
+Hi, I am a informatic student at Universitas Amikom Yogyakarta. I am also a member and admin of the Indonesian IT community forum at IndoSec. Now I work at gi.co.id a company to design websites.
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
 [![](https://img.shields.io/badge/Age-18-green)](mailto:binsarjr121@gmail.com)
@@ -16,6 +15,7 @@
 support me to develop open source project
 ```
 [saweria.co](https://saweria.co/binsardj)
+[trakteer.id](https://trakteer.id/binsarjr)
 
 ## About me
 ```ts
@@ -27,6 +27,7 @@ const binsarjr = () => {
         backEnd: ["Nodejs", "Typescript", "Laravel", "PHP","Python"],
         fronEnd: ["Bootstrap", "Tailwind"],
         database: ["MySQL","PostgreSQL"],
+        services: ["Google Apps Script"]
     },
     Social:{
         Facebook : "facebook.com/binsar05/",
