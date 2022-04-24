@@ -41,7 +41,6 @@ const binsarjr = () => {
 ```
 
 ## Let's connect
-[![Whatsapp](https://img.icons8.com/fluent/40/000000/whatsapp.png)](https://api.whatsapp.com/send?phone=6281229904389&text=Halo+Binsar)
 [![Facebook](https://img.icons8.com/fluent/40/000000/facebook-new.png)](https://www.facebook.com/binsar05/)
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/binsar_dj/)
 [![Website](https://img.icons8.com/fluent/40/000000/domain.png)](https://binsarjr.github.io/)
