@@ -31,7 +31,6 @@ const binsarjr = () => {
     },
     Social:{
         Facebook : "facebook.com/binsar05/",
-        Whatsapp : "https://api.whatsapp.com/send?phone=6281229904389&text=Halo+Binsar",
         Instagram : "https://www.instagram.com/binsar_dj/",
         Website : "binsarjr.github.io"
     },
