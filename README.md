@@ -4,7 +4,7 @@
   Author: binsarjr
   -->
 
-Hi, I am a informatic student at Universitas Amikom Yogyakarta. I am also a member and admin of the Indonesian IT community forum at IndoSec. Now I work at gi.co.id a company to design websites.
+Hi, I am a informatic student at Universitas Amikom Yogyakarta. I am also a member and admin of the Indonesian IT community forum at IndoSec. Now I work at Neuversity as a mentor of students engineering and software engineer
 
 [![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
 [![](https://img.shields.io/badge/Age-18-green)](mailto:binsarjr121@gmail.com)
