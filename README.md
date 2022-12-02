@@ -1,76 +1,24 @@
-<!--
-  Title: Binsar Dwi Jasuma
-  Description: I'm not a programmer. I'm just a problem solver.
-  Author: binsarjr
-  -->
-
-Hi, I am a informatic student at Universitas Amikom Yogyakarta. I am also a member and admin of the Indonesian IT community forum at IndoSec. Now I work at Neuversity as a mentor of students engineering and software engineer
-
-[![](https://img.shields.io/badge/Email-binsarjr121@gmail.com-red)](mailto:binsarjr121@gmail.com)
-[![](https://img.shields.io/badge/Age-18-green)](mailto:binsarjr121@gmail.com)
+# 💫 About Me:
+I am a informatic student at Universitas Amikom Yogyakarta. I am also a member and admin of the Indonesian IT community forum at IndoSec. Now I work at Neuversity as a mentor of students engineering and software engineer
 
 
-#### Support me
-```
-support me to develop open source project
-```
-[saweria.co](https://saweria.co/binsardj)
-[trakteer.id](https://trakteer.id/binsarjr)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binsar_dj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binsarjr) 
 
-## About me
-```ts
-const binsarjr = () => {
-  return {
-    pronouns: "He" | "Him",
-    askMeAbout: ["backend dev"],
-    technologies:{
-        backEnd: ["Nodejs", "Typescript", "Laravel", "PHP","Python"],
-        fronEnd: ["Bootstrap", "Tailwind"],
-        database: ["MySQL","PostgreSQL"],
-        services: ["Google Apps Script"]
-    },
-    Social:{
-        Facebook : "facebook.com/binsar05/",
-        Instagram : "https://www.instagram.com/binsar_dj/",
-        Website : "binsarjr.github.io"
-    },
-    funFact: "I'm not a programmer. I'm just a problem solver."
-  }
-}
-```
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=binsarjr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=binsarjr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Let's connect
-[![Facebook](https://img.icons8.com/fluent/40/000000/facebook-new.png)](https://www.facebook.com/binsar05/)
-[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/binsar_dj/)
-[![Website](https://img.icons8.com/fluent/40/000000/domain.png)](https://binsarjr.github.io/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=binsarjr&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Achievement
+---
+[![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=binsarjr)](https://github.com/binsarjr)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binsarjr&)
-
-[![Binsar Dwi Jasuma's github activity graph](https://activity-graph.herokuapp.com/graph?username=binsarjr&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/binsarjr/)
-
-
-## Another Pin Project
-<details>
-  <summary>My library project</summary>
-  <a href="https://github.com/binsarjr/search-engine-nodejs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=search-engine-nodejs" />
-  </a>
-  <a href="https://github.com/binsarjr/node-email-extractor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=node-email-extractor" />
-  </a>
-
-  <a href="https://github.com/binsarjr/alexa-rank-nodejs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=alexa-rank-nodejs" />
-  </a>  
-</details>
-<details>
-  <summary>My free time project</summary>
-  <a href="https://github.com/binsarjr/chatbot-indonesia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binsarjr&repo=chatbot-indonesia" />
-  </a>
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
