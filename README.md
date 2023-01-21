@@ -22,3 +22,6 @@ I am a informatic student at Universitas Amikom Yogyakarta. I am also a member a
 [![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<a href="https://app.daily.dev/binsarjr"><img src="https://api.daily.dev/devcards/d820c12815794cba951b41dbe212ddcc.png?r=ms6" width="400" alt="4002_Binsar Dwi Jasuma's Dev Card"/></a>
