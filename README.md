@@ -15,10 +15,13 @@
 [![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### My open source projects on GitHub
+<details>
+    <summary>My open source projects on GitHub</summary>
+    
 - 2023 &rarr; [sveltekit-sitemap](https://github.com/binsarjr/sveltekit-sitemap)
 - 2023 &rarr; [svelte-qrcode-action](https://github.com/binsarjr/svelte-qrcode-action)
 - 2023 &rarr; [apiliburnasional](https://github.com/binsarjr/apiliburnasional)
 - 2022 &rarr; [svelte-taphold](https://github.com/binsarjr/svelte-taphold)
 - 2022 &rarr; [svelte-lazyimage-cache](https://github.com/binsarjr/svelte-lazyimage-cache)
+
+</details>
