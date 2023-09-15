@@ -20,4 +20,5 @@
 - 2023 &rarr; [sveltekit-sitemap](https://github.com/binsarjr/sveltekit-sitemap)
 - 2023 &rarr; [svelte-qrcode-action](https://github.com/binsarjr/svelte-qrcode-action)
 - 2023 &rarr; [apiliburnasional](https://github.com/binsarjr/apiliburnasional)
-- 2023 &rarr; [svelte-taphold](https://github.com/binsarjr/svelte-taphold)
+- 2022 &rarr; [svelte-taphold](https://github.com/binsarjr/svelte-taphold)
+- 2022 &rarr; [svelte-lazyimage-cache](https://github.com/binsarjr/svelte-lazyimage-cache)
