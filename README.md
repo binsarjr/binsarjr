@@ -17,7 +17,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
     <summary>My open source projects on GitHub</summary>
-    
+
+- 2024 &rarr; [sveltekit-form-protection](https://www.npmjs.com/package/sveltekit-form-protection)
 - 2023 &rarr; [sveltekit-sitemap](https://github.com/binsarjr/sveltekit-sitemap)
 - 2023 &rarr; [svelte-qrcode-action](https://github.com/binsarjr/svelte-qrcode-action)
 - 2023 &rarr; [apiliburnasional](https://github.com/binsarjr/apiliburnasional)
