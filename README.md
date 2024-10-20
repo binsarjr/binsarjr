@@ -14,6 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/binsarjr?style=social)](https://peerlist.io/binsarjr)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
